@@ -1,0 +1,36 @@
+#root {
+  margin: 0 auto;
+  width:90vw;
+  text-align: center;
+}
+
+.gma{
+  border:solid plum;
+  padding:1em;
+  margin:1em;
+}
+.parentals{
+  display:flex;
+  justify-content: space-around;
+}
+.mom{
+  border:solid cadetblue;
+  padding:1em;
+}
+
+.dad{
+  border:solid burlywood;
+  padding:1em;
+}
+
+.bro{
+  border:solid blue;
+  padding:1em;
+  margin:1em;
+}
+
+.sis{
+  border:solid salmon;
+  padding:1em;
+  margin:1em;
+}
